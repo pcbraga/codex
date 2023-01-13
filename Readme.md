@@ -25,9 +25,14 @@ examples copy
 
 
 ## package json file change
-remove test
-"server": "nodemon server"
-"main": "index.js",
+remove test and "main": "index.js",
+include "server": "nodemon server"
 
 ## run
 npm run server
+
+
+## deploy server rende.com
+
+
+## deploy client vercel.com
